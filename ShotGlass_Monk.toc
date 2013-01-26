@@ -1,0 +1,8 @@
+## Interface: 50100
+## Title: Shot Glass: Monk
+## Notes: Monk Auras and Debuff Indicators for Shot Glass Raid Frames
+## Author: Ceejbot, aka. ceejbot @ github
+## Version: 1.0
+## Dependencies: ShotGlass
+
+ShotGlass_Monk.lua
